@@ -1,0 +1,6 @@
+{
+  "name": "SIRACUSA LABS — AI Landing Studio",
+  "description": "Studio privato per analisi aziendale, copywriting strategico CRO, design generativo ed esportazione/deploy di landing page Astro su Cloudflare Pages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
